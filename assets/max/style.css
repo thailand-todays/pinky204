@@ -1287,14 +1287,6 @@ a[data-action] {
     cursor: pointer
 }
 
-a:visited {
-    color: inherit
-}
-
-a:link {
-    color: inherit
-}
-
 [data-opacity="0"] {
     opacity: 0
 }
